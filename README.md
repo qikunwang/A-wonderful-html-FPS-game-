@@ -10,7 +10,7 @@ This is a proof-of-concept for what can be achieved with modern web development 
                                     based experience that requires no special downloads or installations .
      
                                 ○  WebGL via Three.js: The project uses the Three.js library to tap into WebGL, 
-                                    allowing for powerful 3D graphics rendering directly on the web .
+                                    allowing for powerful 2D graphics rendering directly on the web .
      
                                 ○  Varied environments: The project includes multiple distinct areas, such as a castle,
                                      an underground lava chamber, and a sci-fi complex, to highlight different
