@@ -1,4 +1,20 @@
 # A-wonderful-html-FPS-game-
 A wonderful html FPS game by qikun
-A wonderful html FPS game is a project by developer qikunwang that serves as a technical showcase for building a first-person shooter (FPS) entirely within a web browser [1.1]. Instead of relying on a pre-built game engine, the project leverages HTML5, JavaScript, and the popular Three.js library for rendering graphics [1.1].
-This is a proof-of-concept for what can be achieved with modern web development tools and demonstrates creative solutions to technical challenges inherent in browser-based game development [1.1]. The project showcases fundamental FPS mechanics like movement
+A wonderful html FPS game is a project by developer qikunwang that serves as a technical showcase for building a first-person shooter (FPS) entirely within a web browser . Instead of relying on a pre-built game engine, the project leverages HTML5, JavaScript, and the popular Three.js library for rendering graphics 
+This is a proof-of-concept for what can be achieved with modern web development tools and demonstrates creative solutions to technical challenges inherent in browser-based game development  The project showcases fundamental FPS mechanics.
+
+
+                                                     ✔ Key features:
+○  Built for the browser: The game is a lightweight, browser-
+     based experience that requires no special downloads or installations .
+○  WebGL via Three.js: The project uses the Three.js library to tap into WebGL, 
+     allowing for powerful 3D graphics rendering directly on the web .
+○  Varied environments: The project includes multiple distinct areas, such as a castle,
+     an underground lava chamber, and a sci-fi complex, to highlight different
+       technical capabilities and test rendering limits.
+ 
+                                                    ❗ Attentions:
+      
+      🎁FREE TO EVERYONE!!!!!!!!!!!!!!!!!!!!!!!!!
+      😀Please chick your screen when this game start,only once beacause some browsers don't spport Webs turn on the music without your actions.
+                                                                    
