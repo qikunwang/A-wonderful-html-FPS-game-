@@ -6,20 +6,19 @@ This is a proof-of-concept for what can be achieved with modern web development 
 
                                                      ✔ Key features:
                                                      
-○  Built for the browser: The game is a lightweight, browser-
-     based experience that requires no special downloads or installations .
+                                ○  Built for the browser: The game is a lightweight, browser-
+                                    based experience that requires no special downloads or installations .
      
-○  WebGL via Three.js: The project uses the Three.js library to tap into WebGL, 
-     allowing for powerful 3D graphics rendering directly on the web .
+                                ○  WebGL via Three.js: The project uses the Three.js library to tap into WebGL, 
+                                    allowing for powerful 3D graphics rendering directly on the web .
      
-○  Varied environments: The project includes multiple distinct areas, such as a castle,
-     an underground lava chamber, and a sci-fi complex, to highlight different
-       technical capabilities and test rendering limits.
+                                ○  Varied environments: The project includes multiple distinct areas, such as a castle,
+                                     an underground lava chamber, and a sci-fi complex, to highlight different
+                                     technical capabilities and test rendering limits.
  
                                                 ❗ Attentions:
       
-                                       🎮 Game Startup Instructions
-
+🎮 Game Startup Instructions
 🎁 FREE FOR EVERYONE! 
 
 Important Notes:
@@ -29,4 +28,4 @@ Important Notes:
 Get ready for an exciting gaming experience! 🚀
 
 
-A special tanks for you😁.
+A special thanks for you😁.
