@@ -5,16 +5,28 @@ This is a proof-of-concept for what can be achieved with modern web development 
 
 
                                                      ✔ Key features:
+                                                     
 ○  Built for the browser: The game is a lightweight, browser-
      based experience that requires no special downloads or installations .
+     
 ○  WebGL via Three.js: The project uses the Three.js library to tap into WebGL, 
      allowing for powerful 3D graphics rendering directly on the web .
+     
 ○  Varied environments: The project includes multiple distinct areas, such as a castle,
      an underground lava chamber, and a sci-fi complex, to highlight different
        technical capabilities and test rendering limits.
  
-                                                    ❗ Attentions:
+                                                ❗ Attentions:
       
-      🎁FREE TO EVERYONE!!!!!!!!!!!!!!!!!!!!!!!!!
-      😀Please chick your screen when this game start,only once beacause some browsers don't spport Webs turn on the music without your actions.
-                                                                    
+                                       🎮 Game Startup Instructions
+
+🎁 FREE FOR EVERYONE! 
+
+Important Notes:
+1. Click the screen once when the game starts
+2. Some browsers require user interaction to play music
+
+Get ready for an exciting gaming experience! 🚀
+
+
+A special tanks for you😁.
